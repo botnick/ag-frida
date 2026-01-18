@@ -1,0 +1,15 @@
+frida-tools>=14.5.0
+frida>=17.5.2
+requests
+packaging
+questionary
+rich
+colorama
+PyYAML
+litellm
+fastapi
+uvicorn
+python-multipart
+websockets
+mcp
+jinja2
