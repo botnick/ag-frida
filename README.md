@@ -55,7 +55,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/ag-frida.git
+git clone https://github.com/botnick/ag-frida.git
 cd ag-frida
 ```
 
